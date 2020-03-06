@@ -8,21 +8,23 @@ Welcome to use SANSI Smart Platform and relevant services of SANSI!
 
 You must read and comply with the SANSI Smart Platform Terms of Use (hereinafter referred to as the "Agreement"), the service agreement to use SANSI Smart Platform (hereinafter referred to as the "Software") and relevant services. Please carefully read and fully understand the content of each term, in particular the terms with respect to exemption or limitation of liability, and any separate agreement to activate or use some specific services, and choose to accept them or not. You may be prompted for the terms exempting or limiting liability in bold form.
 
-You may not download, install or use the Software and related services unless you have read and accepted all the terms of this Agreement. Your downloading, installation, use, acquisition of any SANSI account, login and other similar acts shall be deemed that you have read and agreed to be bound by the Agreement.
+You may not download, install or use the Software and related services unless you have read and accepted all the terms of this Agreement. Your downloading, installation, use, acquisition of any SANSI account, login and other similar acts shall be deemed that you have read and agreed to be bound by the Agreement. SANSI reserves the right to modify the terms of this Agreement when necessary. The updated terms of this Agreement, once published, shall replace the original terms of this Agreement without prior notice. Users may refer to the latest version of the terms of this Agreement on this website. If you do not accept the revised terms after SANSI modifies the relevant terms of this Agreement, please immediately stop using the services provided by SANSI. Your continued use of the services provided by SANSI will be deemed to have accepted the revised Agreement.
 
-If you are a minor, please read this Agreement and other above-mentioned agreements with your legal guardian.
+If you do not have full capacity for civil conduct, please read and determine whether you agree to these terms of service in the presence of your legal guardian.
 
 ## I. Contract Subject and Scope of Agreement
 
-1.1. The Service Terms of SANSI Smart Platform constitute a valid contract signed between you and Sansi LED Lighting Inc. and its affiliates and subsidiaries (hereinafter referred to as ”SANSI”) for the use of SANSI website services (including browsing of information on web page, account registration and other services). The SANSI Smart Platform is an Internet of Things solution and/or accompanying service provided by Sansi LED Lighting Inc. and its affiliates and subsidiaries (hereinafter referred to as ”SANSI”).
+1.1. The Service Terms of SANSI Smart Platform constitute a valid contract signed between you and Sansi LED and its affiliates and subsidiaries (hereinafter referred to as ”SANSI”) for the use of SANSI website services (including browsing of information on web page, account registration and other services). The SANSI Smart Platform is an Internet of Things solution and/or accompanying service provided by Sansi LED Lighting Inc. and its affiliates and subsidiaries (hereinafter referred to as ”SANSI”).
 
-1.2. If you intend to use or purchase a specific service on the SANSI website, you may be still asked to confirm relevant provisions for specific service. You shall carefully read and fully understand relevant provisions, and choose to accept or not to accept such provisions.
+1.2. This Agreement shall also include the SANSI Smart Platform Privacy Policy, as well as the relevant Agreements and business rules related to the service that may be published continuously. The foregoing, once published, shall be an integral part of this Agreement and shall be binding upon you.
+
+1.3. Please read our Privacy Policy carefully and let us know if you have any questions. This policy is strictly enforced as a pledge to protect your personal information. The purpose of this policy is to inform you of the personal information we collect so that you can decide whether to use our services or access the site's tools. This policy will affect your rights and your personal information. We hope you can feel our security, feel free to use our services.
 
 ## II.	Registration, Use and Security of Account
 
 2.1. Qualification
 
-2.1.1. You acknowledge that, when you complete the registration procedure or use the website services in other ways permitted by SANSI, you shall be a natural person, a legal person or other organization with full capacity for civil right and civil conduct specified by the laws of the People's Republic of China (hereinafter referred to as “you”).
+2.1.1. You acknowledge that, when you complete the registration procedure or use the website services in other ways permitted by SANSI, you shall be a natural person, a legal person or other organization with full capacity for civil right and civil conduct specified by the laws of the United States of America (hereinafter referred to as “you”).
 
 2.1.2. If you are a person without capacity of civil conduct or a person with limited capacity for civil conduct, you do not have the above qualifications, and you and your guardian shall be responsible for all the consequences resulting from your improper registration behavior in accordance with the provisions of laws.
 
@@ -34,27 +36,27 @@ If you are a minor, please read this Agreement and other above-mentioned agreeme
 
 2.2.2. Account name set or confirmed by you during the registration (hereinafter referred to as “account name”) and your password will constitute your account after the successful registration (account name and password are together referred to as “account”).
 
-2.2.3. Your account name shall not violate the national laws and regulations as well as the management practices of SANSI, or shall not easily lead to the confusion between identity of you and SANSI, otherwise your account may not be successfully registered or SANSI has the right to close your account with prior notice.
+2.2.3. Your account name shall not violate the national laws and regulations as well as the management practices of SANSI, or shall not easily lead to the confusion between identity of you and SANSI, otherwise your account may not be successfully registered or SANSI is entitled to close your account with prior notice.
 
 2.2.4. You shall accurately provide and timely update your account information according to the laws and regulations or the prompt on relevant page, to make the account information real, timely, complete and accurate. If your information is incorrect, false, outdated or incomplete, SANSI may send you a notice of inquiry and/or correction request, and you shall provide or update relevant information according to the requirements of SANSI. If your information is false, outdated, incomplete or inaccurate, you shall be responsible for the consequences and losses resulting from your failure to use the SANSI account (the account cannot be registered, the account is frozen or closed, or the recertification fails until we terminate or suspend your access to part or all of the Services) or those resulting from the use of account.
 
 2.2.5. For provisioning of certain products or services, SANSI may ask you to provide further identify information for further identity authentication or qualification, and you may use such products or services only after your account passes the authentication or qualification.
 
-2.2.6. In general, your account is the unique identification for all the activities on the SANSI website. Unless otherwise agreed, each SANSI account may be used to carry out independent activities on the website. In the following cases, SANSI, however, has right to carry out unified treatment on multiple SANSI accounts owned by one legal subject and/or associated legal subject at its discretion. For example, according to the associated information provided during registration, login and use of different accounts, SANSI may determine that these accounts are owned by the same user. Examples of associated information: The same identity number, phone number, payment ID, equipment, address, etc.
+2.2.6. In general, your account is the unique identification for all the activities on the SANSI website. Unless otherwise agreed, each SANSI account may be used to carry out independent activities on the website. In the following cases, SANSI, however, is entitled to carry out unified treatment on multiple SANSI accounts owned by one legal subject and/or associated legal subject at its discretion. For example, according to the associated information provided during registration, login and use of different accounts, SANSI may determine that these accounts are owned by the same user. Examples of associated information: The same identity number, phone number, payment ID, equipment, address, etc.
 
-2.2.7. You shall be fully responsible for the authenticity, legality and validity of your registration information; you may not pretend to be others or publish any information in other’s name; and you may not maliciously use the registered account leading to the misrecognition by other users, otherwise SANSI has the right to immediately suspend the provision of services and you shall bear all the resulting legal responsibilities alone.
+2.2.7. You shall be fully responsible for the authenticity, legality and validity of your registration information; you may not pretend to be others or publish any information in other’s name; and you may not maliciously use the registered account leading to the mis-recognition by other users, otherwise SANSI is entitled to immediately suspend the provision of services and you shall bear all the resulting legal responsibilities alone.
 
-You must use the website as well as the products, programs and services of SANSI in a legal manner, and must be responsible for all the actions that take place under your own account, including any content that you publish and any resulting consequence. You shall use the contents at your discretion, and shall assume all the risks resulting from the use of such contents, including the risks resulting from dependence on the accuracy, integrity or practicability of such contents. SANSI cannot and will not undertake any responsibility for any loss or damage resulting from the user’s behavior.
+2.2.8. You must use the website as well as the products, programs and services of SANSI in a legal manner, and must be responsible for all the actions that take place under your own account, including any content that you publish and any resulting consequence. You shall use the contents at your discretion, and shall assume all the risks resulting from the use of such contents, including the risks resulting from dependence on the accuracy, integrity or practicability of such contents. SANSI cannot and will not undertake any responsibility for any loss or damage resulting from the user’s behavior.
 
 2.3. Use and Security of Account
 
-2.3.1. You have the right to use your account to enter the website of SANSI and use other services provided by SANSI.
+2.3.1. You are entitled to use your account to enter the website of SANSI and use other services provided by SANSI.
 
 2.3.2. SANSI may inform you of the service progress and remind you to proceed to the next step by email, website message, short message, telephone or other means. In the process of service, you shall timely login your SANSI account to check and complete the trading operations.
 
 2.3.3. One SANSI account may only apply to the unique legal subject. Unless expressly stipulated in laws, judged by judicial department or agreed by SANSI, your SANSI account may not be transferred to, granted to or inherited by others in any way.
 
-2.3.4. Your account name and password shall be set and kept by yourself, and you shall keep your account name and password confidential. You shall correctly exit from the website at the end of each on-line period. Given that there is any damage or negative effects due to disclosure of account information by yourself, or any attack, fraud or other actions, our quality goods mall will not take the responsibilities and you shall claim compensations for infringement acts through judicial, administrative and other relief approaches.
+2.3.4. Your account name and password shall be set and kept by yourself, and you shall keep your account name and password confidential. You shall correctly exit from the website at the end of each on-line period. Given that there is any damage or negative effects due to disclosure of account information by yourself, or any attack, fraud or other actions, SANSI will not take the responsibilities and you shall claim compensations for infringement acts through judicial, administrative and other relief approaches.
 
 2.3.5. You shall be responsible for all behavioral outcomes (including, but not limited to, online signing of various types of agreements, posting of information, purchase of products and services, disclosure of information, etc.) under your account.
 
@@ -86,7 +88,7 @@ Your SANSI account (including all or partial authorities or functions) may be fr
 
 3.2.1. If any circumstance as mentioned in Clause 3.1 occurs and such circumstance is serious, or based on the requirements of national competent authority, your SANSI account (including all or partial authorities or functions) will be canceled, and SANSI will inform you by email, website message, short message, telephone or other means.
 
-3.2.2. You understand and agree that if you have not entered the website of SANSI with your account for 12 consecutive months and all the services under your account are expired, SANSI has the right to cancel your account, and in this case, you are unable to enter the website.
+3.2.2. You understand and agree that if you have not entered the website of SANSI with your account for 12 consecutive months and all the services under your account are expired, SANSI is entitled to cancel your account, and in this case, you are unable to enter the website.
 
 3.3. Appeal
 
@@ -94,11 +96,11 @@ In case of freezing or cancellation of account as mentioned above, you shall pay
 
 3.3.1. If you apply to SANSI for release of the above freezing or cancellation through the appeal procedure, for the security of your account, you shall provide accurate identity certificates and relevant data as well as other information or documents as required by SANSI for review. You shall fully understand that your appeal may not be certainly allowed, and SANSI has the right to decide whether to accept your appeal.
 
-3.3.2. You understand and agree that if you refuse to provide accurate identity certificates and relevant data, or your appeal fails to pass the review of SANSI, SANSI has the right to freeze such account and restrict partial or all the functions of such account for a long time.
+3.3.2. You understand and agree that if you refuse to provide accurate identity certificates and relevant data, or your appeal fails to pass the review of SANSI, SANSI is entitled to freeze such account and restrict partial or all the functions of such account for a long time.
 
 ## IV. Website Services and Practices
 
-4.You are entitled to the Internet technology services and information services provided by SANSI through the website. You shall also take the responsibility of timely payment and service management according to the Service Terms and relevant provisions confirmed when purchasing the specific services.
+4.1. You are entitled to the Internet technology services and information services provided by SANSI through the website. You shall also take the responsibility of timely payment and service management according to the Service Terms and relevant provisions confirmed when purchasing the specific services.
 
 4.2. During the use of SANSI’s services, you shall ensure that:
 
@@ -122,9 +124,7 @@ In case of freezing or cancellation of account as mentioned above, you shall pay
 
 4.2.2. Any behavior breaking or attempting to break the network security will not occur, including use of technical or other measures to destroy or disturb the website of SANSI or other users;
 
-4.2.3. You will use the services of SANSI website according to the Service Terms;
-
-If you violate the above guarantees, SANSI has the right to delete information, or suspend or terminate the service according to the Service Terms, and also has the right to freeze or cancel partial or all the functions of your account.
+4.2.3. You will use the services of SANSI website according to the Service Terms, if you violate the above guarantees, SANSI is entitled to delete information, or suspend or terminate the service according to the Service Terms, and also is entitled to freeze or cancel partial or all the functions of your account.
 
 4.3 For some of the services involved in this website, it is necessary for you to sign separate agreements with SANSI, and you must fulfill all your obligations strictly in accordance with the signed agreements, otherwise you will no longer be able to enjoy the services and products provided by SANSI.
 
@@ -164,13 +164,17 @@ SANSI promises to keep the information which is provided or informed during your
 
 8.2. To the extent permitted by applicable laws, SANSI bears no liability for any indirect, punitive, special or derived loss associated with or arising from the Service Terms.
 
-8.3. SANSI hereby reminds that during the use of SANSI services, you shall abide by the laws of the People's Republic of China, shall not endanger the security of the Internet, and shall not use SANSI services to engage in activities that infringe others’ reputation, privacy, intellectual property or other legitimate rights and interests. SANSI assumes no responsibility for your illegal act or default during the use of SANSI services.
+8.3. SANSI hereby reminds that during the use of SANSI services, you shall abide by the local laws and regulations, shall not endanger the security of the Internet, and shall not use SANSI services to engage in activities that infringe others’ reputation, privacy, intellectual property or other legitimate rights and interests. SANSI assumes no responsibility for your illegal act or default during the use of SANSI services.
 
 8.4. If the users of SANSI intend to upload, provide or publish relevant information (including but not limited to user name, company name, contact person and information, related pictures and news) on the forum, community and service market of SANSI website, the users shall provide such information by themselves, and shall be fully responsible for the information they provide according to the law.
 
 8.5. If you obtain any product or service from third party through the use of SANSI website (e.g. the service provider in the SANSI service market provides you services through the SANSI platform), the service provider will be responsible for the services provided for you, and SANSI assume no responsibility for such third-party services.
 
-8.6. In some cases, SANSI may present its reference code or software so that you can use the services of SANSI in more convenient manner. If the software is the open-source software of third party, you shall follow relevant instructions for such software. According to the instructions on relevant page, you may be allowed for relevant operations such as downloading and secondary development of software. You shall understand and promise that the intellectual property of such code is owned by SANSI, and you shall clearly indicate the holder of intellectual property during the use of code. In addition, SANSI assumes no responsibility for your use of such code and software as well as any job or consequence resulting therefrom.
+8.6. Prohibition of reverse engineering, reverse compilation and reverse assembly: You shouldn’t perform reverse engineering (Reverse Engineer), reverse compilation (Decompile) or reverse assembly (Disassemble) on this software product without altering any resources compiled within the program file. Except as expressly permitted by law or regulation, you shall abide by the terms of this Agreement.
+
+8.7. Component segmentation: This software is licensed to be used as a companion software to a single product. You may not use the parts separately for any purpose.
+
+8.8. Reserved rights: All other rights not expressly authorized in this Agreement remain in the possession of SANSI, and you must obtain the written consent of SANSI when using other rights. 
 
 ## IX. Liabilities for Breach of Contract
 
@@ -204,7 +208,7 @@ The validity, interpretation, modification, execution and dispute settlement of 
 
 ## XIII. Update and Termination of Terms
 
-13.1. SANSI has the right to modify the Service Terms and relevant service rules, and will give an announcement or a notice by web bulletin, email, website message or short message. If you continue to use the services after the modification of the Service Terms, you will be deemed to have fully read, understood and accepted the contents as revised, and will also abide by such revised terms.
+13.1. SANSI is entitled to modify the Service Terms and relevant service rules, and will give an announcement or a notice by web bulletin, email, website message or short message. If you continue to use the services after the modification of the Service Terms, you will be deemed to have fully read, understood and accepted the contents as revised, and will also abide by such revised terms.
 
 13.2. If your account is canceled, or your website services are terminated by mutual agreement, the Service Terms will be terminated.
 
@@ -214,9 +218,9 @@ The validity, interpretation, modification, execution and dispute settlement of 
 
 14.2. The section headings herein are set only for convenience, and do not have the force of law or contract.
 
-14.3. If any provision herein is deemed as abolished, invalid or unenforceable, such provision shall be considered as severable, and shall not affect the validity and enforceability of the Service Terms and other provisions.
+14.3. If any provision herein is deemed as abolished, invalid or unenforceable, such provision shall be considered as separable, and shall not affect the validity and enforceability of the Service Terms and other provisions.
 
-14.4. SANSI has the right to transfer all or part of its rights and obligations for service to its Affiliate by announcement at its official website (www.SANSI.com), website notice or email.
+14.4. SANSI is entitled to transfer all or part of its rights and obligations for service to its Affiliate by announcement at its official website (www.SANSI.com),  website notice or email.
 
 14.5. Unless otherwise agreed, for provision of professional services, SANSI may also commission its Affiliate or other legal subject to provide you one or more specific services on the SANSI website. In this case, you may conclude relevant terms or conditions with the above company, and you shall carefully read and understand such terms and conditions before choosing to accept them or not.
 
